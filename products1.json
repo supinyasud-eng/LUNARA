@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lunara-rose-200",
+    "name": "ยาสระผม Rose",
+    "mood": "romance",
+    "type": "bottle",
+    "size": "200ml",
+    "price": 99,
+    "image": "images/rose.jpg",
+    "description": "ยาสระผมกลิ่นกุหลาบนุ่มนวล ให้ฟองละเอียดและผมสะอาดอย่างอ่อนโยน ทิ้งกลิ่นหอมละมุนติดผมตลอดวัน"
+  },
+  {
+    "id": "lunara-lavender-200",
+    "name": "ยาสระผม Lavender",
+    "mood": "fresh",
+    "type": "bottle",
+    "size": "200ml",
+    "price": 99,
+    "image": "images/lavender.jpg",
+    "description": "ยาสระผมกลิ่นลาเวนเดอร์สงบ ผ่อนคลาย ช่วยให้ผมนุ่มสบายและหนังศีรษะรู้สึกสะอาดสดชื่น"
+  }
+]
